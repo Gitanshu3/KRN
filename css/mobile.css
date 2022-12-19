@@ -1,0 +1,88 @@
+#nav-bar .logo,
+#nav-bar .nav-links {
+  text-align: center;
+  float: none;
+}
+
+#nav-bar .nav-links ul li {
+  float: none;
+  display: inline-block;
+  width: 32%;
+}
+
+/* showcase */
+
+.showcase .enjoy-heading {
+  font-size: 1.8rem;
+  line-height: 1.5;
+}
+
+.showcase .picture-info {
+  padding: 0 20px;
+}
+
+.main-picture-info {
+  height: 85vh;
+}
+
+.hotel-info-img-container {
+  overflow: hidden;
+  height: 40vh;
+}
+
+/* hotel-info-img */
+.hotel-info-img-container .hotel-img {
+  display: none;
+}
+
+.hotel-info-img-container .hotel-info,
+.hotel-features-box {
+  float: none;
+  width: 100%;
+}
+
+/* about css */
+
+.about-img-info-container .about-info {
+  padding-right: 0;
+}
+
+.about-img-info-container .about-info,
+.about-img-info-container .about-img {
+  float: none;
+  width: 100%;
+}
+
+.about-info h2 {
+  padding-top: 30px;
+  font-size: 2rem;
+  line-height: 1.2;
+}
+
+/* testimonials */
+
+.testimonials-container h2 {
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 100px;
+  line-height: 1.2;
+}
+
+.review-1-image,
+.review-2-image,
+.review-1-info,
+.review-2-info {
+  float: none;
+}
+
+.review {
+  margin: 30px;
+  padding: 10px;
+}
+
+.review-1-image,
+.review-2-image {
+  float: left;
+  width: 30%;
+  margin-right: 20px;
+}
